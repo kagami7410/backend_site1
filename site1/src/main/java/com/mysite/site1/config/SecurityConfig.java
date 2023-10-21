@@ -41,8 +41,10 @@ public class SecurityConfig {
                 .authorizeHttpRequests((authz) -> {
                             try {
                                 authz
-//                                        .requestMatchers("/users/getAll")
-//                                        .permitAll()
+                                        .requestMatchers("/users/register")
+                                        .permitAll()
+                                        .requestMatchers("/users/authenticate")
+                                        .permitAll()
 //                                        .requestMatchers("/authenticate")
 //                                        .permitAll()
 //
