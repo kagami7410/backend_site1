@@ -1,18 +1,17 @@
 package com.mysite.site1.controllers;
 
 
-import com.mysite.site1.config.services.AuthenticationService;
+import com.mysite.site1.services.AuthenticationService;
 import com.mysite.site1.models.User;
 import com.mysite.site1.repository.UserRepository;
 import com.mysite.site1.securityModels.AuthenticationRequest;
 import com.mysite.site1.securityModels.AuthenticationResponse;
 import com.mysite.site1.securityModels.RegisterRequest;
-import org.example.maths.MyMath;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
-import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
@@ -29,11 +28,8 @@ public class UserController {
     @Autowired
     AuthenticationService authenticationService;
 
-
-    @GetMapping("/users/getAll")
+    @GetMapping("/getAll")
     private List<User> getAllUsers(){
-        MyMath myMath = new MyMath();
-        myMath.adAddition(3,8);
         return userRepository.findAll();
     }
 

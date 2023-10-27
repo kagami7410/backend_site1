@@ -1,7 +1,9 @@
 package com.mysite.site1.config;
 
-import com.mysite.site1.config.services.JwtService;
+import com.mysite.site1.models.User;
+import com.mysite.site1.services.JwtService;
 
+import com.mysite.site1.models.TestBean;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
@@ -21,17 +23,15 @@ import org.springframework.web.filter.OncePerRequestFilter;
 
 import java.io.IOException;
 
+//@Service
 @Component
-//@RequiredArgsConstructor
 public class JwtAuthenticationFilter extends OncePerRequestFilter {
-
-//    @Autowired
-//    private JwtService jwtService;
-//    @Autowired
-//    private UserDetailsService userDetailsService;
 
     @Autowired
     private JwtService jwtService;
+
+    @Autowired
+    private TestBean testBean;
 
     @Autowired
     private UserDetailsService userDetailsService;
@@ -44,6 +44,7 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter {
            @NonNull FilterChain filterChain
     ) throws ServletException, IOException {
         logger.info("Initializing doFilterInternal");
+        logger.info("Testing UserDetails Bean: " + userDetailsService);
 
 //        if (request.getServletPath().contains("/")) {
 //            filterChain.doFilter(request, response);
@@ -70,7 +71,7 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter {
 
             if (jwtService.isTokenValid(jwt, userDetails)){
                 UsernamePasswordAuthenticationToken authToken = new UsernamePasswordAuthenticationToken(
-                        userDetails,
+                        userDetails ,
                         null,
                         userDetails.getAuthorities()
                 );
@@ -79,6 +80,8 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter {
                         new WebAuthenticationDetailsSource().buildDetails(request)
                 );
                 SecurityContextHolder.getContext().setAuthentication(authToken);
+                logger.info("Test Bean String: " + testBean.getTestString());
+
             }
         }
         filterChain.doFilter(request, response);
