@@ -1,6 +1,7 @@
 package com.mysite.site1.services;
 
 
+import com.mysite.site1.exceptions.EmailAlreadyExistsException;
 import com.mysite.site1.models.User;
 import com.mysite.site1.repository.UserRepository;
 import com.mysite.site1.securityModels.AuthenticationRequest;
@@ -11,6 +12,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
+import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 
@@ -26,15 +28,26 @@ public class AuthenticationService {
 
     private final AuthenticationManager authenticationManager;
 
-    public AuthenticationResponse register(RegisterRequest request){
-        User user = new User();
-        user.setEmail(request.getEmail());
-        user.setPassword(passwordEncoder.encode(request.getPassword()));
-        userRepository.save(user);
-        var jwtToken = jwtService.generateToken(user);
-        return AuthenticationResponse.builder()
-                .token(jwtToken)
-                .build();
+
+    public AuthenticationResponse register(RegisterRequest request) {
+        boolean emailAlreadyExists = userRepository.existsByEmail(request.getEmail());
+
+        if(!emailAlreadyExists){
+            User user = new User();
+            user.setEmail(request.getEmail());
+            user.setPassword(passwordEncoder.encode(request.getPassword()));
+            userRepository.save(user);
+            var jwtToken = jwtService.generateToken(user);
+            return AuthenticationResponse.builder()
+                    .token(jwtToken)
+                    .message(null).build();
+
+        }
+        else {
+            return AuthenticationResponse.builder()
+                    .token(null)
+                    .message("Email already in use").build();
+        }
     }
 
     public AuthenticationResponse authenticate(AuthenticationRequest request){

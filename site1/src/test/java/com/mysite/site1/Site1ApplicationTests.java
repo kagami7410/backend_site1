@@ -8,6 +8,7 @@ class Site1ApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 	}
 
 }
