@@ -43,7 +43,7 @@ public class SecurityConfig {
                                 authz
                                         .requestMatchers("/users/register")
                                         .permitAll()
-                                        .requestMatchers("/contents/getAll")
+                                        .requestMatchers("/contents/**")
                                         .permitAll()
                                         .requestMatchers("/users/getAll")
                                         .permitAll()
