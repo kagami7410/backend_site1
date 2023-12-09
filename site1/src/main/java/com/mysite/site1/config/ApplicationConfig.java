@@ -1,21 +1,15 @@
 package com.mysite.site1.config;
 
-import com.mysite.site1.models.TestBean;
-import com.mysite.site1.models.TestInterface;
 import com.mysite.site1.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.AuthenticationProvider;
 import org.springframework.security.authentication.dao.DaoAuthenticationProvider;
 import org.springframework.security.config.annotation.authentication.configuration.AuthenticationConfiguration;
-import org.springframework.security.core.Authentication;
-import org.springframework.security.core.context.SecurityContextHolder;
-import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
@@ -30,23 +24,8 @@ public class ApplicationConfig {
 
     private final UserRepository userRepository;
 
-    @Bean
-    public TestBean testBean(){
-        TestBean testBean = new TestBean();
-        testBean.setTestString("test");
-        return testBean;
 
-    }
 
-    @Bean
-    public TestInterface testInterface(){
-        return new TestInterface() {
-            @Override
-            public String returnString(String message) {
-                return message;
-            }
-        };
-    }
 
     @Bean
     public UserDetailsService userDetailsService() {

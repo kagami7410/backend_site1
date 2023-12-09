@@ -1,9 +1,7 @@
 package com.mysite.site1.config;
 
-import com.mysite.site1.models.User;
 import com.mysite.site1.services.JwtService;
 
-import com.mysite.site1.models.TestBean;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
@@ -29,9 +27,6 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter {
 
     @Autowired
     private JwtService jwtService;
-
-    @Autowired
-    private TestBean testBean;
 
     @Autowired
     private UserDetailsService userDetailsService;
@@ -80,8 +75,6 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter {
                         new WebAuthenticationDetailsSource().buildDetails(request)
                 );
                 SecurityContextHolder.getContext().setAuthentication(authToken);
-                logger.info("Test Bean String: " + testBean.getTestString());
-
             }
         }
         filterChain.doFilter(request, response);

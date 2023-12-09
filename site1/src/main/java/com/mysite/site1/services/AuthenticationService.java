@@ -1,7 +1,6 @@
 package com.mysite.site1.services;
 
 
-import com.mysite.site1.exceptions.EmailAlreadyExistsException;
 import com.mysite.site1.models.User;
 import com.mysite.site1.repository.UserRepository;
 import com.mysite.site1.securityModels.AuthenticationRequest;
