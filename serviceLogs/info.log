@@ -1,0 +1,197 @@
+2023-12-10 18:51:12.484 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 32616 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+2023-12-10 18:51:12.487 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "mysql"
+2023-12-10 18:51:13.109 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-10 18:51:13.110 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-12-10 18:51:13.140 [main] INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data JDBC - Could not safely identify store assignment for repository candidate interface com.mysite.site1.repository.ContentRepository; If you want this repository to be a JDBC repository, consider annotating your entities with one of these annotations: org.springframework.data.relational.core.mapping.Table.
+2023-12-10 18:51:13.142 [main] INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data JDBC - Could not safely identify store assignment for repository candidate interface com.mysite.site1.repository.UserRepository; If you want this repository to be a JDBC repository, consider annotating your entities with one of these annotations: org.springframework.data.relational.core.mapping.Table.
+2023-12-10 18:51:13.142 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 26 ms. Found 0 JDBC repository interfaces.
+2023-12-10 18:51:13.149 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-10 18:51:13.150 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-10 18:51:13.175 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 21 ms. Found 2 JPA repository interfaces.
+2023-12-10 18:51:13.664 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9080 (http)
+2023-12-10 18:51:13.671 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9080"]
+2023-12-10 18:51:13.672 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-12-10 18:51:13.673 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+2023-12-10 18:51:13.757 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-12-10 18:51:13.758 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1216 ms
+2023-12-10 18:51:13.891 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-12-10 18:51:13.928 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.2.5.Final
+2023-12-10 18:51:13.929 [main] INFO  org.hibernate.cfg.Environment - HHH000406: Using bytecode reflection optimizer
+2023-12-10 18:51:14.022 [main] INFO  o.h.b.i.BytecodeProviderInitiator - HHH000021: Bytecode provider name : bytebuddy
+2023-12-10 18:51:14.114 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2023-12-10 18:51:14.140 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-12-10 18:51:14.200 [main] INFO  c.g.cloud.sql.core.CoreSocketFactory - First Cloud SQL connection, generating RSA key pair.
+2023-12-10 18:51:16.091 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@48fc0211
+2023-12-10 18:51:16.092 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-12-10 18:51:16.485 [main] INFO  o.h.b.i.BytecodeProviderInitiator - HHH000021: Bytecode provider name : bytebuddy
+2023-12-10 18:51:17.040 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-12-10 18:51:18.022 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-12-10 18:51:18.388 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-12-10 18:51:18.457 [main] INFO  c.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+2023-12-10 18:51:18.689 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@648f48d3, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@30ce78e3, org.springframework.security.web.context.SecurityContextHolderFilter@24bc06dd, org.springframework.security.web.header.HeaderWriterFilter@2662e3ff, org.springframework.security.web.authentication.logout.LogoutFilter@7925e772, com.mysite.site1.config.JwtAuthenticationFilter@4f3e65f4, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@24d7c365, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@5fb0a09e, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@41041c31, org.springframework.security.web.session.SessionManagementFilter@32029cd, org.springframework.security.web.access.ExceptionTranslationFilter@68908be7, org.springframework.security.web.access.intercept.AuthorizationFilter@1f596988]
+2023-12-10 18:51:19.132 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9080"]
+2023-12-10 18:51:19.150 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9080 (http) with context path ''
+2023-12-10 18:51:19.157 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 7.079 seconds (process running for 7.422)
+2023-12-10 18:52:16.996 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-12-10 18:52:16.998 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-12-10 18:52:17.999 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-12-10 18:53:33.549 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 3104 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+2023-12-10 18:53:33.552 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "mysql"
+2023-12-10 18:53:34.102 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-10 18:53:34.103 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-12-10 18:53:34.136 [main] INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data JDBC - Could not safely identify store assignment for repository candidate interface com.mysite.site1.repository.ContentRepository; If you want this repository to be a JDBC repository, consider annotating your entities with one of these annotations: org.springframework.data.relational.core.mapping.Table.
+2023-12-10 18:53:34.137 [main] INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data JDBC - Could not safely identify store assignment for repository candidate interface com.mysite.site1.repository.UserRepository; If you want this repository to be a JDBC repository, consider annotating your entities with one of these annotations: org.springframework.data.relational.core.mapping.Table.
+2023-12-10 18:53:34.138 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 28 ms. Found 0 JDBC repository interfaces.
+2023-12-10 18:53:34.144 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-10 18:53:34.145 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-10 18:53:34.168 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 19 ms. Found 2 JPA repository interfaces.
+2023-12-10 18:53:34.667 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9080 (http)
+2023-12-10 18:53:34.673 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9080"]
+2023-12-10 18:53:34.675 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-12-10 18:53:34.675 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+2023-12-10 18:53:34.761 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-12-10 18:53:34.762 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1161 ms
+2023-12-10 18:53:34.892 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-12-10 18:53:34.932 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.2.5.Final
+2023-12-10 18:53:34.934 [main] INFO  org.hibernate.cfg.Environment - HHH000406: Using bytecode reflection optimizer
+2023-12-10 18:53:35.034 [main] INFO  o.h.b.i.BytecodeProviderInitiator - HHH000021: Bytecode provider name : bytebuddy
+2023-12-10 18:53:35.126 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2023-12-10 18:53:35.147 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-12-10 18:53:35.208 [main] INFO  c.g.cloud.sql.core.CoreSocketFactory - First Cloud SQL connection, generating RSA key pair.
+2023-12-10 18:53:37.129 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2b35c7aa
+2023-12-10 18:53:37.130 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-12-10 18:53:37.513 [main] INFO  o.h.b.i.BytecodeProviderInitiator - HHH000021: Bytecode provider name : bytebuddy
+2023-12-10 18:53:37.992 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-12-10 18:53:38.957 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-12-10 18:53:39.268 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-12-10 18:53:39.338 [main] INFO  c.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+2023-12-10 18:53:39.546 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@3328db4f, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4f9e9c21, org.springframework.security.web.context.SecurityContextHolderFilter@4fe9fb65, org.springframework.security.web.header.HeaderWriterFilter@48f95f96, org.springframework.security.web.authentication.logout.LogoutFilter@30ce78e3, com.mysite.site1.config.JwtAuthenticationFilter@1822a61b, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@6fb51e17, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@623a891d, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@1390a43a, org.springframework.security.web.session.SessionManagementFilter@434a2a10, org.springframework.security.web.access.ExceptionTranslationFilter@67b2c8bb, org.springframework.security.web.access.intercept.AuthorizationFilter@6c120b00]
+2023-12-10 18:53:39.987 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9080"]
+2023-12-10 18:53:39.991 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2023-12-10 18:53:39.993 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-12-10 18:53:39.996 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-12-10 18:53:40.678 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-12-10 18:53:40.679 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-9080"]
+2023-12-10 18:53:40.679 [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2023-12-10 18:53:40.681 [main] WARN  o.a.c.loader.WebappClassLoaderBase - The web application [ROOT] appears to have started a thread named [pool-2-thread-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@18/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@18/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+ java.base@18/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+ java.base@18/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3464)
+ java.base@18/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3435)
+ java.base@18/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1623)
+ java.base@18/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1177)
+ java.base@18/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@18/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@18/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@18/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@18/java.lang.Thread.run(Thread.java:833)
+2023-12-10 18:53:40.682 [main] WARN  o.a.c.loader.WebappClassLoaderBase - The web application [ROOT] appears to have started a thread named [pool-2-thread-2] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@18/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@18/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@18/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1672)
+ java.base@18/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@18/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@18/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@18/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@18/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@18/java.lang.Thread.run(Thread.java:833)
+2023-12-10 18:53:40.683 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-9080"]
+2023-12-10 18:53:40.683 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-9080"]
+2023-12-10 18:53:40.689 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-12-10 18:53:40.700 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 9080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 9080 or configure this application to listen on another port.
+
+2023-12-10 19:49:27.481 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 27684 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+2023-12-10 19:49:27.484 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "mysql"
+2023-12-10 19:49:28.035 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-10 19:49:28.036 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-12-10 19:49:28.069 [main] INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data JDBC - Could not safely identify store assignment for repository candidate interface com.mysite.site1.repository.ContentRepository; If you want this repository to be a JDBC repository, consider annotating your entities with one of these annotations: org.springframework.data.relational.core.mapping.Table.
+2023-12-10 19:49:28.070 [main] INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data JDBC - Could not safely identify store assignment for repository candidate interface com.mysite.site1.repository.UserRepository; If you want this repository to be a JDBC repository, consider annotating your entities with one of these annotations: org.springframework.data.relational.core.mapping.Table.
+2023-12-10 19:49:28.070 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 28 ms. Found 0 JDBC repository interfaces.
+2023-12-10 19:49:28.077 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-10 19:49:28.078 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-10 19:49:28.102 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 21 ms. Found 2 JPA repository interfaces.
+2023-12-10 19:49:28.600 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9080 (http)
+2023-12-10 19:49:28.607 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9080"]
+2023-12-10 19:49:28.608 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-12-10 19:49:28.608 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+2023-12-10 19:49:28.697 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-12-10 19:49:28.698 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1163 ms
+2023-12-10 19:49:28.813 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-12-10 19:49:28.855 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.2.5.Final
+2023-12-10 19:49:28.857 [main] INFO  org.hibernate.cfg.Environment - HHH000406: Using bytecode reflection optimizer
+2023-12-10 19:49:28.956 [main] INFO  o.h.b.i.BytecodeProviderInitiator - HHH000021: Bytecode provider name : bytebuddy
+2023-12-10 19:49:29.049 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2023-12-10 19:49:29.075 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-12-10 19:49:29.134 [main] INFO  c.g.cloud.sql.core.CoreSocketFactory - First Cloud SQL connection, generating RSA key pair.
+2023-12-10 19:49:31.768 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@21280cbb
+2023-12-10 19:49:31.770 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-12-10 19:49:32.161 [main] INFO  o.h.b.i.BytecodeProviderInitiator - HHH000021: Bytecode provider name : bytebuddy
+2023-12-10 19:49:32.649 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-12-10 19:49:33.611 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-12-10 19:49:33.919 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-12-10 19:49:33.975 [main] INFO  c.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+2023-12-10 19:49:34.193 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@41d8ac75, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1e1d813a, org.springframework.security.web.context.SecurityContextHolderFilter@df5f657, org.springframework.security.web.header.HeaderWriterFilter@4e7b89b6, org.springframework.security.web.authentication.logout.LogoutFilter@721fc228, com.mysite.site1.config.JwtAuthenticationFilter@66b3eab0, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@1aba8978, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@261b27db, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@1964ef9, org.springframework.security.web.session.SessionManagementFilter@5ee76cf2, org.springframework.security.web.access.ExceptionTranslationFilter@5d3a238, org.springframework.security.web.access.intercept.AuthorizationFilter@58a0f75b]
+2023-12-10 19:49:34.685 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9080"]
+2023-12-10 19:49:34.690 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2023-12-10 19:49:34.691 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-12-10 19:49:34.695 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-12-10 19:49:35.326 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-12-10 19:49:35.328 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-9080"]
+2023-12-10 19:49:35.328 [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2023-12-10 19:49:35.330 [main] WARN  o.a.c.loader.WebappClassLoaderBase - The web application [ROOT] appears to have started a thread named [pool-2-thread-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@18/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@18/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@18/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1672)
+ java.base@18/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@18/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@18/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@18/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@18/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@18/java.lang.Thread.run(Thread.java:833)
+2023-12-10 19:49:35.330 [main] WARN  o.a.c.loader.WebappClassLoaderBase - The web application [ROOT] appears to have started a thread named [pool-2-thread-2] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@18/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@18/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+ java.base@18/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+ java.base@18/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3464)
+ java.base@18/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3435)
+ java.base@18/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1623)
+ java.base@18/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1177)
+ java.base@18/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@18/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@18/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@18/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@18/java.lang.Thread.run(Thread.java:833)
+2023-12-10 19:49:35.332 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-9080"]
+2023-12-10 19:49:35.332 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-9080"]
+2023-12-10 19:49:35.338 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-12-10 19:49:35.350 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 9080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 9080 or configure this application to listen on another port.
+
