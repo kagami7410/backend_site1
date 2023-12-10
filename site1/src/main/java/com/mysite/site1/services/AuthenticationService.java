@@ -37,6 +37,8 @@ public class AuthenticationService {
             user.setPassword(passwordEncoder.encode(request.getPassword()));
             userRepository.save(user);
             var jwtToken = jwtService.generateToken(user);
+            logger.info("User Registered");
+
             return AuthenticationResponse.builder()
                     .token(jwtToken)
                     .message(null).build();
@@ -62,6 +64,7 @@ public class AuthenticationService {
                 .orElseThrow();
         logger.info("User's email: " + user.getEmail());
         var jwtToken = jwtService.generateToken(user);
+        logger.info("JWT token Generated");
         return AuthenticationResponse.builder()
                 .token(jwtToken)
                 .build();

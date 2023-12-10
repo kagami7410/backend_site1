@@ -1,0 +1,37 @@
+<configuration>
+
+    <!-- Appenders -->
+    <appender name="INFO_FILE"  class="ch.qos.logback.core.FileAppender">
+        <file>serviceLogs/info.log</file>
+        <append>true</append>
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+<!--    <appender name="ERROR_FILE" class="ch.qos.logback.core.FileAppender">-->
+<!--        <file>serviceLogs/error.log</file>-->
+<!--        <append>true</append>-->
+<!--        <encoder>-->
+<!--            <pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>-->
+<!--        </encoder>-->
+<!--    </appender>-->
+    <appender name="DEBUG_FILE" class="ch.qos.logback.core.FileAppender">
+        <file>serviceLogs/debug.log</file>
+        <append>true</append>
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!-- Loggers -->
+    <root name="com.example.app" level="INFO" additivity="false">
+        <appender-ref ref="INFO_FILE"/>
+    </root>
+<!--    <logger name="error_logs" level="ERROR" additivity="false">-->
+<!--        <appender-ref ref="ERROR_FILE"/>-->
+<!--    </logger>-->
+    <logger name="debug_logs" level="DEBUG" additivity="false">
+        <appender-ref ref="DEBUG_FILE"/>
+    </logger>
+
+</configuration>
