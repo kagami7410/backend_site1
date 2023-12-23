@@ -1,28 +1,31 @@
 package com.mysite.site1.services.impl;
 
+import com.google.api.gax.rpc.ApiException;
+import com.google.api.gax.rpc.StatusCode;
+import com.mysite.site1.error.ContentNotReturnedException;
 import com.mysite.site1.models.SingleContent;
 import com.mysite.site1.repository.ContentRepository;
 import com.mysite.site1.services.ContentService;
+import org.apache.http.HttpResponse;
+import org.apache.http.protocol.HTTP;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
+import javax.management.RuntimeErrorException;
 import java.util.ArrayList;
 import java.util.List;
 @Service
 public class ContentServiceImpl implements ContentService {
-
     @Autowired private ContentRepository contentRepository;
     @Override
-    public List<SingleContent> getContents() {
+    public List<SingleContent> getContents() throws ContentNotReturnedException{
         List<SingleContent> allContents = new ArrayList<>();
-        try{
-            allContents = contentRepository.findAll();
-
-        }
-        catch (Exception e){
-            e.getMessage();
-        }
+        allContents = contentRepository.findAll();
+        if(allContents.size() == 0){
+            throw new ContentNotReturnedException(
+                    "No Content Returned from Database");
+            }
         return allContents;
     }
 }

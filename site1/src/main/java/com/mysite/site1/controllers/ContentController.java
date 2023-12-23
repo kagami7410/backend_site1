@@ -1,5 +1,6 @@
 package com.mysite.site1.controllers;
 
+import com.mysite.site1.error.ContentNotReturnedException;
 import com.mysite.site1.models.SingleContent;
 import com.mysite.site1.repository.ContentRepository;
 import com.mysite.site1.services.impl.ContentServiceImpl;
@@ -29,13 +30,22 @@ public class ContentController {
         List<SingleContent> allContents = new ArrayList<>();
         try{
             logger.info("Trying to get Contents from Database");
-            allContents = contentRepository.findAll();
+            allContents = contentService.getContents();
             logger.info("Data Recieved; Sending HTTP 200 response");
         }
-        catch (Exception e){
+        catch (ContentNotReturnedException e){
             e.getMessage();
+
         }
+
+        allContents = contentRepository.findAll();
         return ResponseEntity.ok(allContents);
+
+    }
+
+    @DeleteMapping("/deleteAll")
+    public void deleteContents(){
+        contentRepository.deleteAll();
     }
 
     @PostMapping("/add")

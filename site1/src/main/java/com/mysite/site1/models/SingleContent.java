@@ -3,6 +3,8 @@ package com.mysite.site1.models;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import jakarta.persistence.*;
 import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.RequiredArgsConstructor;
 import lombok.Setter;
 import java.util.List;
 
@@ -39,4 +41,17 @@ public class SingleContent {
     @JsonIgnoreProperties({"singleContent"})
     List<Comment> commentList;
 
+    public SingleContent(Long id, String title, String description, String url, User user, int likes, int views, List<Comment> commentList) {
+        this.id = id;
+        this.title = title;
+        this.description = description;
+        this.url = url;
+        this.user = user;
+        this.likes = likes;
+        this.views = views;
+        this.commentList = commentList;
+    }
+
+    public SingleContent() {
+    }
 }
