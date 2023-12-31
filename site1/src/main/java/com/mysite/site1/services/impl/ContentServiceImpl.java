@@ -9,6 +9,8 @@ import com.mysite.site1.services.ContentService;
 import org.apache.http.HttpResponse;
 import org.apache.http.protocol.HTTP;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.PageRequest;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
@@ -27,5 +29,11 @@ public class ContentServiceImpl implements ContentService {
                     "No Content Returned from Database");
             }
         return allContents;
+    }
+
+
+    public Page<SingleContent> getContentsByPage(int pageNumber, int pageSize){
+        PageRequest pageRequest = PageRequest.of(pageNumber, pageSize);
+        return contentRepository.findAll(pageRequest);
     }
 }

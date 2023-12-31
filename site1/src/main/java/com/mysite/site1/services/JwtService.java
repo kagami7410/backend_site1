@@ -3,8 +3,8 @@ package com.mysite.site1.services;
 
 import com.mysite.site1.models.User;
 import io.jsonwebtoken.SignatureAlgorithm;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.stereotype.Service;
 import io.jsonwebtoken.Claims;
@@ -21,7 +21,7 @@ import io.jsonwebtoken.Jwts;
 @Service
 public class JwtService {
 
-    Logger logger = LoggerFactory.getLogger(JwtService.class);
+    Logger logger = LogManager.getLogger(JwtService.class);
 
 
     private static final String SECRET_KEY = "9d05f11f2c71a0284d61b0f6b8547a4e1219412641810d41668b8add4cb7efb7";
