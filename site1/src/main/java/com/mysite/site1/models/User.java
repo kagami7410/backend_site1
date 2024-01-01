@@ -8,6 +8,7 @@ import org.hibernate.annotations.GeneratorType;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 
+import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
 
@@ -30,6 +31,14 @@ public class User implements UserDetails {
     @OneToMany(mappedBy = "user", cascade = CascadeType.REMOVE, fetch = FetchType.EAGER)
     @JsonIgnoreProperties({"user"})
     private List<SingleContent> watchlist;
+
+    @ManyToMany
+    @JsonIgnoreProperties("user")
+    @JoinTable(
+            name = "users_stars",
+            joinColumns = @JoinColumn(name = "user_id"),
+            inverseJoinColumns = @JoinColumn(name = "star_id"))
+    private List<Star> favouriteStars = new ArrayList<>();
 
 
     @Override
