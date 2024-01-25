@@ -9,6 +9,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
+import org.springframework.http.HttpHeaders;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
@@ -54,6 +55,9 @@ public class ContentController {
     public ResponseEntity<Page<SingleContent>> getAllContents(
             @PathVariable int pageNumber,
             @PathVariable int pageSize){
+        logger.info("Data Recieved; Sending HTTP 200 response - info");
+
+        logger.debug("Data Recieved; Sending HTTP 200 response - debug");
         return ResponseEntity.ok(contentService.getContentsByPage(pageNumber, pageSize));
     }
 

@@ -31,6 +31,13 @@ public class ContentServiceImpl implements ContentService {
         return allContents;
     }
 
+//    public String getTotalPageLength(int contentsPerPage){
+//        int allContents = (int)contentRepository.count();
+//        int totalPages = allContents/contentsPerPage;
+//        return String.valueOf(totalPages);
+//
+//    }
+
 
     public Page<SingleContent> getContentsByPage(int pageNumber, int pageSize){
         PageRequest pageRequest = PageRequest.of(pageNumber, pageSize);

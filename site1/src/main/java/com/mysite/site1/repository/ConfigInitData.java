@@ -16,15 +16,15 @@ public class ConfigInitData {
 
     List<SingleContent> contents = new ArrayList<>();
 
-    @Bean
-    void addContentsToDataBase(){
-        for(int i = 0; i < 120; i++){
-            SingleContent singleContent = new SingleContent();
-            singleContent.setTitle("someTitle " + i);
-            singleContent.setDescription("someDescription " + i);
-            singleContent.setUrl("someUrl " + i);
-
-            contentRepository.save(singleContent);
-        }
-    }
+//    @Bean
+//    void addContentsToDataBase(){
+//        for(int i = 0; i < 500; i++){
+//            SingleContent singleContent = new SingleContent();
+//            singleContent.setTitle("someTitle " + i);
+//            singleContent.setDescription("someDescription " + i);
+//            singleContent.setUrl("some_url");
+//
+//            contentRepository.save(singleContent);
+//        }
+//    }
 }

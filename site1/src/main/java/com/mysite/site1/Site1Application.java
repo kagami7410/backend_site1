@@ -10,16 +10,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Site1Application {
 	private static final Logger logger = LogManager.getLogger(Site1Application.class);
 	public static void main(String[] args) {
-		for(int i = 0; i < 20; i++){
-			logger.info(
-					"Test"
-			);
-		}
-		logger.trace("TRACE");
-		logger.debug("DEBUG");
-
-		logger.error("ERROR");
-
 
 		SpringApplication.run(Site1Application.class, args);
 	}

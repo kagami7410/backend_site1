@@ -1,77 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Configuration status="WARN" monitorInterval="30">
+<Configuration status="DEBUG">
     <Properties>
-        <Property name="LOG_PATTERN">
-            %d{yyyy-MM-dd HH:mm:ss.SSS} %5p ${hostName} "lol" --- [%15.15t] %-40.40c{1.} : %m%n%ex
-        </Property>
+        <Property name="fileDir">./serviceLogs</Property>
+        <Property name="fileNamePattern">./serviceLogs/serviceLogs-%d{dd-MM-yyyy}-%i.log</Property>
+        <Property name="logPattern">lolololololol %d{dd-MM-yyyy HH:mm:ss,SSS} [%t] %-5p %c - %m%n</Property>
     </Properties>
     <Appenders>
-        <Console name="ConsoleAppender" target="SYSTEM_OUT" follow="true">
-            <PatternLayout pattern="${LOG_PATTERN}"/>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="${logPattern}"/>
         </Console>
-
-        <!-- Rolling File Appender -->
-        <RollingFile name="InfoFile" fileName="./serviceLogs/info.log"
-                     filePattern="/info-%d{yyyy-MM-dd}-%i.log">
-            <PatternLayout>
-                <Pattern>${LOG_PATTERN}</Pattern>
-            </PatternLayout>
+        <RollingFile name="MyRollingFile" fileName="${fileDir}/traceLog.log" filePattern="${fileNamePattern}">
+            <PatternLayout pattern="${logPattern}"/>
             <Policies>
-                <SizeBasedTriggeringPolicy size="10MB" />
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="20MB"/>
             </Policies>
             <DefaultRolloverStrategy max="10"/>
-            <ThresholdFilter level="INFO" onMatch="ACCEPT" onMismatch="DENY"/>
-
-        </RollingFile>
-
-        <RollingFile name="DebugFile" fileName="./serviceLogs/debug.log"
-                     filePattern="/debug-%d{yyyy-MM-dd}-%i.log">
-            <PatternLayout>
-                <Pattern>${LOG_PATTERN}</Pattern>
-            </PatternLayout>
-            <Policies>
-                <SizeBasedTriggeringPolicy size="10MB" />
-            </Policies>
-            <DefaultRolloverStrategy max="10"/>
-            <ThresholdFilter level="DEBUG" onMatch="ACCEPT" onMismatch="DENY"/>
-
-        </RollingFile>
-
-        <RollingFile name="ErrorFile" fileName="./serviceLogs/error.log"
-                     filePattern="/error-%d{yyyy-MM-dd}-%i.log">
-            <PatternLayout>
-                <Pattern>${LOG_PATTERN}</Pattern>
-            </PatternLayout>
-            <Policies>
-                <SizeBasedTriggeringPolicy size="10MB" />
-            </Policies>
-            <DefaultRolloverStrategy max="10"/>
-            <ThresholdFilter level="ERROR" onMatch="ACCEPT" onMismatch="DENY"/>
-
+            <Filters>
+                <ThresholdFilter level="DEBUG" onMatch="ACCEPT" onMismatch="DENY"/>
+            </Filters>
         </RollingFile>
     </Appenders>
     <Loggers>
-<!--        <Logger name="com.mysite.site1" level="debug" additivity="false">-->
-<!--            <AppenderRef ref="DebugFile" />-->
-<!--        </Logger>-->
+        <Logger name="com.mysite.site1" level="debug" additivity="false">
+<!--            <AppenderRef ref="Console"/>-->
+            <AppenderRef ref="MyRollingFile"/>
+        </Logger>
+<!--        <Root level="debug">-->
+<!--            <AppenderRef ref="Console"/>-->
+<!--            <AppenderRef ref="MyRollingFile"/>-->
 
-<!--        <Logger name="com.mysite.site1" level="info" additivity="false">-->
-<!--            <AppenderRef ref="InfoFile" />-->
-<!--        </Logger>-->
-
-<!--        <Logger name="com.mysite.site1" level="info" additivity="false">-->
-<!--            <AppenderRef ref="ErrorFile" />-->
-<!--        </Logger>-->
-
-        <Root level="info">
-            <AppenderRef ref="ConsoleAppender" />
-            <AppenderRef ref="InfoFile"/>
-            <AppenderRef ref="DebugFile"/>
-            <AppenderRef ref="ErrorFile"/>
-
-        </Root>
-
-
-
+<!--        </Root>-->
     </Loggers>
 </Configuration>

@@ -39,7 +39,6 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter {
            @NonNull FilterChain filterChain
     ) throws ServletException, IOException {
         logger.info("Initializing doFilterInternal");
-        logger.info("Testing UserDetails Bean: " + userDetailsService);
 
 //        if (request.getServletPath().contains("/")) {
 //            filterChain.doFilter(request, response);
@@ -47,7 +46,6 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter {
 //        }
 
         final String authHeader = request.getHeader("Authorization");
-        logger.info("authHeader: " + authHeader);
         final String jwt;
         final String email;
         if (authHeader == null || !authHeader.startsWith("Bearer")){
