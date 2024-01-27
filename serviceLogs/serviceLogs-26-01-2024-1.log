@@ -1,0 +1,56 @@
+lolololololol 26-01-2024 14:36:54,760 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 18964 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 26-01-2024 14:36:54,776 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 26-01-2024 14:36:54,778 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "mysql"
+lolololololol 26-01-2024 14:37:01,398 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
+lolololololol 26-01-2024 14:37:01,721 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 26-01-2024 14:37:02,434 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 7.956 seconds (process running for 8.689)
+lolololololol 26-01-2024 14:37:22,736 [http-nio-9080-exec-1] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 26-01-2024 14:37:22,762 [http-nio-9080-exec-1] INFO  com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - info
+lolololololol 26-01-2024 14:37:22,762 [http-nio-9080-exec-1] DEBUG com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - debug
+lolololololol 26-01-2024 14:37:37,739 [http-nio-9080-exec-3] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 26-01-2024 14:37:37,741 [http-nio-9080-exec-3] INFO  com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - info
+lolololololol 26-01-2024 14:37:37,741 [http-nio-9080-exec-3] DEBUG com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - debug
+lolololololol 26-01-2024 14:37:55,092 [http-nio-9080-exec-4] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 26-01-2024 14:37:55,092 [http-nio-9080-exec-7] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 26-01-2024 14:37:55,099 [http-nio-9080-exec-4] INFO  com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - info
+lolololololol 26-01-2024 14:37:55,099 [http-nio-9080-exec-4] DEBUG com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - debug
+lolololololol 26-01-2024 14:40:54,643 [http-nio-9080-exec-6] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 26-01-2024 14:40:54,644 [http-nio-9080-exec-5] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 26-01-2024 14:40:54,644 [http-nio-9080-exec-6] INFO  com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - info
+lolololololol 26-01-2024 14:40:54,644 [http-nio-9080-exec-6] DEBUG com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - debug
+lolololololol 26-01-2024 14:41:41,748 [http-nio-9080-exec-2] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 26-01-2024 14:41:41,748 [http-nio-9080-exec-1] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 26-01-2024 14:41:41,749 [http-nio-9080-exec-2] INFO  com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - info
+lolololololol 26-01-2024 14:41:41,750 [http-nio-9080-exec-2] DEBUG com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - debug
+lolololololol 26-01-2024 14:48:12,760 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 19004 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 26-01-2024 14:48:12,768 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 26-01-2024 14:48:12,769 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "mysql"
+lolololololol 26-01-2024 14:48:19,333 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
+lolololololol 26-01-2024 14:48:19,595 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 26-01-2024 14:48:20,310 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 7.839 seconds (process running for 8.54)
+lolololololol 26-01-2024 14:48:26,216 [http-nio-9080-exec-1] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 26-01-2024 14:48:26,242 [http-nio-9080-exec-1] INFO  com.mysite.site1.controllers.ContentController - Fetching contents from database. Contents of size 10
+lolololololol 26-01-2024 14:48:28,240 [http-nio-9080-exec-1] DEBUG com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - debug
+lolololololol 26-01-2024 15:12:50,371 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 12860 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 26-01-2024 15:12:50,379 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 26-01-2024 15:12:50,379 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "mysql"
+lolololololol 26-01-2024 15:12:56,987 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
+lolololololol 26-01-2024 15:12:57,219 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 26-01-2024 15:12:57,904 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 7.819 seconds (process running for 8.527)
+lolololololol 26-01-2024 15:13:03,390 [http-nio-9080-exec-3] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 26-01-2024 15:13:03,390 [http-nio-9080-exec-1] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 26-01-2024 15:13:03,429 [http-nio-9080-exec-1] INFO  com.mysite.site1.controllers.ContentController - Fetching contents from database. Contents of size 50
+lolololololol 26-01-2024 15:13:09,542 [http-nio-9080-exec-1] DEBUG com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - debug
+lolololololol 26-01-2024 15:13:47,679 [http-nio-9080-exec-4] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 26-01-2024 15:13:47,679 [http-nio-9080-exec-2] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 26-01-2024 15:13:47,681 [http-nio-9080-exec-2] INFO  com.mysite.site1.controllers.ContentController - Fetching contents from database. Contents of size 50
+lolololololol 26-01-2024 15:13:53,706 [http-nio-9080-exec-2] DEBUG com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - debug
+lolololololol 26-01-2024 15:19:27,868 [http-nio-9080-exec-10] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 26-01-2024 15:19:35,100 [http-nio-9080-exec-9] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 26-01-2024 15:19:38,587 [http-nio-9080-exec-8] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 26-01-2024 15:19:42,836 [http-nio-9080-exec-3] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 26-01-2024 15:19:46,933 [http-nio-9080-exec-1] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 26-01-2024 15:19:52,107 [http-nio-9080-exec-4] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 26-01-2024 15:19:52,107 [http-nio-9080-exec-2] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 26-01-2024 15:19:52,109 [http-nio-9080-exec-4] INFO  com.mysite.site1.controllers.ContentController - Fetching contents from database. Contents of size 50
+lolololololol 26-01-2024 15:19:58,230 [http-nio-9080-exec-4] DEBUG com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - debug

@@ -55,10 +55,17 @@ public class ContentController {
     public ResponseEntity<Page<SingleContent>> getAllContents(
             @PathVariable int pageNumber,
             @PathVariable int pageSize){
-        logger.info("Data Recieved; Sending HTTP 200 response - info");
 
-        logger.debug("Data Recieved; Sending HTTP 200 response - debug");
-        return ResponseEntity.ok(contentService.getContentsByPage(pageNumber, pageSize));
+        logger.info("Fetching contents from database. Contents of size {}", pageSize);
+        try{
+            Page<SingleContent> pageContents = contentService.getContentsByPage(pageNumber, pageSize);
+            logger.debug("Data Recieved; Sending HTTP 200 response - debug");
+            return ResponseEntity.ok(pageContents);
+        }
+        catch (Exception exception){
+            logger.error("Data not received: {}", exception.getMessage());
+        }
+        return null;
     }
 
     @DeleteMapping("/deleteAll")

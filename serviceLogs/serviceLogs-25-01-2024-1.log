@@ -1,0 +1,262 @@
+lolololololol 25-01-2024 14:40:25,302 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 25912 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 14:40:25,309 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 14:40:25,310 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "mysql"
+lolololololol 25-01-2024 14:40:28,560 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
+lolololololol 25-01-2024 14:40:28,821 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 25-01-2024 14:40:29,404 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.409 seconds (process running for 5.093)
+lolololololol 25-01-2024 14:41:22,169 [http-nio-9080-exec-1] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 25-01-2024 14:41:22,169 [http-nio-9080-exec-3] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 25-01-2024 14:41:22,207 [http-nio-9080-exec-1] INFO  com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - info
+lolololololol 25-01-2024 14:41:22,207 [http-nio-9080-exec-1] DEBUG com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - debug
+lolololololol 25-01-2024 14:41:22,794 [http-nio-9080-exec-2] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 25-01-2024 14:41:22,794 [http-nio-9080-exec-4] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 25-01-2024 14:41:22,796 [http-nio-9080-exec-2] INFO  com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - info
+lolololololol 25-01-2024 14:41:22,796 [http-nio-9080-exec-2] DEBUG com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - debug
+lolololololol 25-01-2024 14:41:24,960 [http-nio-9080-exec-5] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 25-01-2024 14:41:24,961 [http-nio-9080-exec-5] INFO  com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - info
+lolololololol 25-01-2024 14:41:24,962 [http-nio-9080-exec-5] DEBUG com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - debug
+lolololololol 25-01-2024 14:41:26,606 [http-nio-9080-exec-6] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 25-01-2024 14:41:26,608 [http-nio-9080-exec-6] INFO  com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - info
+lolololololol 25-01-2024 14:41:26,608 [http-nio-9080-exec-6] DEBUG com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - debug
+lolololololol 25-01-2024 14:41:27,617 [http-nio-9080-exec-7] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 25-01-2024 14:41:27,619 [http-nio-9080-exec-7] INFO  com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - info
+lolololololol 25-01-2024 14:41:27,619 [http-nio-9080-exec-7] DEBUG com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - debug
+lolololololol 25-01-2024 14:47:07,562 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 15644 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 14:47:07,568 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 14:47:07,568 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "mysql"
+lolololololol 25-01-2024 14:47:10,764 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
+lolololololol 25-01-2024 14:47:10,989 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 25-01-2024 14:47:11,583 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.31 seconds (process running for 5.02)
+lolololololol 25-01-2024 14:47:16,291 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 1744 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 14:47:16,299 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 14:47:16,299 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "mysql"
+lolololololol 25-01-2024 14:47:19,613 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
+lolololololol 25-01-2024 14:47:19,862 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 25-01-2024 14:47:20,614 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.61 seconds (process running for 5.305)
+lolololololol 25-01-2024 15:18:01,533 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 24404 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 15:18:01,540 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 15:18:01,541 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "mysql"
+lolololololol 25-01-2024 15:18:04,614 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
+lolololololol 25-01-2024 15:18:04,801 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 25-01-2024 15:18:05,365 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.185 seconds (process running for 4.935)
+lolololololol 25-01-2024 15:18:11,094 [http-nio-9080-exec-3] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 25-01-2024 15:18:11,094 [http-nio-9080-exec-2] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 25-01-2024 15:18:11,130 [http-nio-9080-exec-2] INFO  com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - info
+lolololololol 25-01-2024 15:18:11,130 [http-nio-9080-exec-2] DEBUG com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - debug
+lolololololol 25-01-2024 15:18:12,599 [http-nio-9080-exec-1] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 25-01-2024 15:18:12,599 [http-nio-9080-exec-4] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 25-01-2024 15:18:12,601 [http-nio-9080-exec-1] INFO  com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - info
+lolololololol 25-01-2024 15:18:12,602 [http-nio-9080-exec-1] DEBUG com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - debug
+lolololololol 25-01-2024 15:18:43,471 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 12076 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 15:18:43,478 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 15:18:43,479 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 15:18:46,567 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
+lolololololol 25-01-2024 15:18:46,743 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 25-01-2024 15:18:47,355 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.266 seconds (process running for 5.053)
+lolololololol 25-01-2024 15:18:51,948 [http-nio-9080-exec-1] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 25-01-2024 15:18:51,948 [http-nio-9080-exec-4] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 25-01-2024 15:18:51,983 [http-nio-9080-exec-4] INFO  com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - info
+lolololololol 25-01-2024 15:18:51,983 [http-nio-9080-exec-4] DEBUG com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - debug
+lolololololol 25-01-2024 15:18:53,027 [http-nio-9080-exec-2] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 25-01-2024 15:18:53,027 [http-nio-9080-exec-3] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 25-01-2024 15:18:53,029 [http-nio-9080-exec-3] INFO  com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - info
+lolololololol 25-01-2024 15:18:53,029 [http-nio-9080-exec-3] DEBUG com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - debug
+lolololololol 25-01-2024 15:18:54,936 [http-nio-9080-exec-5] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 25-01-2024 15:18:54,938 [http-nio-9080-exec-5] INFO  com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - info
+lolololololol 25-01-2024 15:18:54,938 [http-nio-9080-exec-5] DEBUG com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - debug
+lolololololol 25-01-2024 15:18:56,119 [http-nio-9080-exec-6] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 25-01-2024 15:18:56,121 [http-nio-9080-exec-6] INFO  com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - info
+lolololololol 25-01-2024 15:18:56,121 [http-nio-9080-exec-6] DEBUG com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - debug
+lolololololol 25-01-2024 15:36:57,491 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 27528 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 15:36:57,499 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 15:36:57,499 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 15:42:49,622 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 4404 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 15:42:49,629 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 15:42:49,630 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 15:54:32,296 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 4112 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 15:54:32,305 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 15:54:32,306 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 15:57:02,584 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 9628 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 15:57:02,592 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 15:57:02,593 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 15:57:21,779 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 28164 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 15:57:21,787 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 15:57:21,788 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 15:57:48,839 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 29564 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 15:57:48,846 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 15:57:48,846 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 16:02:59,350 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 16588 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 16:02:59,357 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 16:02:59,358 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 16:04:23,760 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 3588 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 16:04:23,769 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 16:04:23,770 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 16:06:11,610 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 12568 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 16:06:11,617 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 16:06:11,618 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 17:08:26,850 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 712 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 17:08:26,856 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 17:08:26,857 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 17:38:49,933 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 30172 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 17:38:49,940 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 17:38:49,940 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 17:40:14,574 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 296 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 17:40:14,580 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 17:40:14,581 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 17:42:35,661 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 13324 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 17:42:35,671 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 17:42:35,672 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 17:46:25,099 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 28216 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 17:46:25,108 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 17:46:25,109 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 17:46:28,155 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
+lolololololol 25-01-2024 17:46:28,344 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 25-01-2024 17:46:28,811 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.023 seconds (process running for 4.712)
+lolololololol 25-01-2024 17:48:23,611 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 22564 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 17:48:23,619 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 17:48:23,620 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 17:49:10,669 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 2724 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 17:49:10,675 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 17:49:10,676 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 17:49:15,950 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 30344 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 17:49:15,958 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 17:49:15,958 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 17:56:31,024 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 13628 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 17:56:31,030 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 17:56:31,031 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 17:56:37,360 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 26804 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 17:56:37,367 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 17:56:37,367 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 17:57:20,238 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 29348 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 17:57:20,245 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 17:57:20,246 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 17:57:24,913 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 19360 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 17:57:24,920 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 17:57:24,920 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 18:05:25,847 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 22488 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 18:05:25,854 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 18:05:25,854 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 18:06:17,492 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 24656 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 18:06:17,498 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 18:06:17,499 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 18:06:34,455 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 11708 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 18:06:34,463 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 18:06:34,464 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 18:07:03,792 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 26224 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 18:07:03,803 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 18:07:03,804 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 18:19:02,450 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 15292 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 18:19:02,457 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 18:19:02,457 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 18:19:22,014 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 24748 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 18:19:22,021 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 18:19:22,022 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 18:20:36,260 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 30424 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 18:20:36,267 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 18:20:36,268 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 18:22:17,007 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 28860 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 18:22:17,015 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 18:22:17,016 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 18:22:24,992 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 14376 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 18:22:25,000 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 18:22:25,000 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 18:22:38,215 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 18548 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 18:22:38,222 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 18:22:38,223 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 18:24:09,302 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 16948 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 18:24:09,310 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+lolololololol 25-01-2024 18:24:09,311 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 18:26:27,489 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 29068 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 18:26:27,497 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 25-01-2024 18:26:27,498 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 18:26:42,520 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 16560 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 18:26:42,527 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 25-01-2024 18:26:42,528 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 18:26:45,703 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
+lolololololol 25-01-2024 18:26:45,882 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 25-01-2024 18:26:46,450 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.248 seconds (process running for 4.932)
+lolololololol 25-01-2024 18:26:50,859 [http-nio-9080-exec-1] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 25-01-2024 18:26:50,859 [http-nio-9080-exec-2] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 25-01-2024 18:26:50,895 [http-nio-9080-exec-1] INFO  com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - info
+lolololololol 25-01-2024 18:26:50,895 [http-nio-9080-exec-1] DEBUG com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - debug
+lolololololol 25-01-2024 18:26:53,029 [http-nio-9080-exec-3] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 25-01-2024 18:26:53,031 [http-nio-9080-exec-3] INFO  com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - info
+lolololololol 25-01-2024 18:26:53,031 [http-nio-9080-exec-3] DEBUG com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - debug
+lolololololol 25-01-2024 18:26:54,828 [http-nio-9080-exec-4] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 25-01-2024 18:26:54,830 [http-nio-9080-exec-4] INFO  com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - info
+lolololololol 25-01-2024 18:26:54,830 [http-nio-9080-exec-4] DEBUG com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - debug
+lolololololol 25-01-2024 18:32:12,032 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 12632 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 18:32:12,040 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 25-01-2024 18:32:12,041 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 18:33:09,507 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 6876 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 18:33:09,515 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 25-01-2024 18:33:09,516 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 18:33:12,705 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
+lolololololol 25-01-2024 18:33:12,927 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 25-01-2024 18:33:13,516 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.337 seconds (process running for 5.052)
+lolololololol 25-01-2024 18:35:21,585 [http-nio-8080-exec-1] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 25-01-2024 18:35:21,618 [http-nio-8080-exec-1] INFO  com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - info
+lolololololol 25-01-2024 18:35:21,618 [http-nio-8080-exec-1] DEBUG com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - debug
+lolololololol 25-01-2024 18:35:22,489 [http-nio-8080-exec-2] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 25-01-2024 18:35:22,492 [http-nio-8080-exec-2] INFO  com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - info
+lolololololol 25-01-2024 18:35:22,492 [http-nio-8080-exec-2] DEBUG com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - debug
+lolololololol 25-01-2024 18:35:23,851 [http-nio-8080-exec-5] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 25-01-2024 18:35:23,853 [http-nio-8080-exec-5] INFO  com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - info
+lolololololol 25-01-2024 18:35:23,854 [http-nio-8080-exec-5] DEBUG com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - debug
+lolololololol 25-01-2024 18:38:45,824 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 11404 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 18:38:45,831 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 25-01-2024 18:38:45,831 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 18:42:36,690 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 15728 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 18:42:36,697 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 25-01-2024 18:42:36,698 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 18:42:56,022 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 21320 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 18:42:56,030 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 25-01-2024 18:42:56,031 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 18:43:02,447 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 23408 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 18:43:02,457 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 25-01-2024 18:43:02,458 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 18:43:08,264 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 30212 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 18:43:08,270 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 25-01-2024 18:43:08,271 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 18:43:54,661 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 13188 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 18:43:54,667 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 25-01-2024 18:43:54,668 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 18:43:57,777 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
+lolololololol 25-01-2024 18:43:57,971 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 25-01-2024 18:43:58,621 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.266 seconds (process running for 4.959)
+lolololololol 25-01-2024 18:55:04,265 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 29600 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 18:55:04,271 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 25-01-2024 18:55:04,272 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 18:55:07,535 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
+lolololololol 25-01-2024 18:55:07,817 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 25-01-2024 18:55:08,375 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.452 seconds (process running for 5.186)
+lolololololol 25-01-2024 18:56:24,102 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 15444 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 18:56:24,110 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 25-01-2024 18:56:24,111 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
+lolololololol 25-01-2024 18:56:27,510 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
+lolololololol 25-01-2024 18:56:27,808 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 25-01-2024 18:56:28,345 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.614 seconds (process running for 5.389)
+lolololololol 25-01-2024 19:06:39,594 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 29560 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 19:06:39,602 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 25-01-2024 19:06:39,603 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "mysql"
+lolololololol 25-01-2024 19:06:42,947 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
+lolololololol 25-01-2024 19:06:43,188 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 25-01-2024 19:06:43,852 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.591 seconds (process running for 5.293)
+lolololololol 25-01-2024 20:29:52,584 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 31336 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 20:29:52,590 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 25-01-2024 20:29:52,591 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "mysql"
+lolololololol 25-01-2024 20:29:55,784 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
+lolololololol 25-01-2024 20:29:56,023 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 25-01-2024 20:29:56,553 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.278 seconds (process running for 8.086)
+lolololololol 25-01-2024 20:30:10,995 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 10052 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 20:30:11,003 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 25-01-2024 20:30:11,003 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "mysql"
+lolololololol 25-01-2024 20:30:14,094 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
+lolololololol 25-01-2024 20:30:14,362 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 25-01-2024 20:30:14,940 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.265 seconds (process running for 4.975)
+lolololololol 25-01-2024 20:34:18,845 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 13440 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 25-01-2024 20:34:18,854 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 25-01-2024 20:34:18,854 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "mysql"
+lolololololol 25-01-2024 20:34:21,995 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
+lolololololol 25-01-2024 20:34:22,182 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 25-01-2024 20:34:22,688 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.154 seconds (process running for 4.865)
