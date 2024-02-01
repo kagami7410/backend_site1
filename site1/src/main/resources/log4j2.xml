@@ -23,7 +23,7 @@
     </Appenders>
     <Loggers>
         <Logger name="com.mysite.site1" level="debug" additivity="false">
-<!--            <AppenderRef ref="Console"/>-->
+            <AppenderRef ref="Console"/>
             <AppenderRef ref="MyRollingFile"/>
         </Logger>
 <!--        <Root level="debug">-->
