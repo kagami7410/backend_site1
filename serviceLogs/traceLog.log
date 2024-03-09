@@ -23,3 +23,13 @@ lolololololol 09-03-2024 15:40:35,931 [main] INFO  com.mysite.site1.config.Secur
 lolololololol 09-03-2024 15:40:36,528 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.793 seconds (process running for 5.543)
 lolololololol 09-03-2024 15:41:35,358 [http-nio-9080-exec-1] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
 lolololololol 09-03-2024 15:41:35,389 [http-nio-9080-exec-1] INFO  com.mysite.site1.controllers.ContentController - Fetching contents from database. Contents of size 10
+lolololololol 09-03-2024 22:40:05,438 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 10060 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 09-03-2024 22:40:05,445 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 09-03-2024 22:40:33,919 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 38460 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 09-03-2024 22:40:33,926 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 09-03-2024 22:41:08,589 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 51764 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 09-03-2024 22:41:08,597 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 09-03-2024 22:41:12,392 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 09-03-2024 22:41:13,039 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.784 seconds (process running for 5.514)
+lolololololol 09-03-2024 22:41:18,179 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 45368 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 09-03-2024 22:41:18,188 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
