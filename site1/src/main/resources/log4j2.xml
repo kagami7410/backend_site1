@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Configuration status="DEBUG">
+<Configuration status="WARN">
     <Properties>
         <Property name="fileDir">./serviceLogs</Property>
         <Property name="fileNamePattern">./serviceLogs/serviceLogs-%d{dd-MM-yyyy}-%i.log</Property>
@@ -17,19 +17,33 @@
             </Policies>
             <DefaultRolloverStrategy max="10"/>
             <Filters>
-                <ThresholdFilter level="DEBUG" onMatch="ACCEPT" onMismatch="DENY"/>
+                <ThresholdFilter level="INFO" onMatch="ACCEPT" onMismatch="DENY"/>
             </Filters>
         </RollingFile>
     </Appenders>
     <Loggers>
-        <Logger name="com.mysite.site1" level="debug" additivity="false">
+        <!-- Hibernate SQL Logger -->
+        <Logger name="org.hibernate.SQL" level="info" additivity="false">
+            <AppenderRef ref="Console"/>
+<!--            <AppenderRef ref="File"/>-->
+        </Logger>
+        <!-- For application -->
+        <Logger name="com.mysite.site1" level="info" additivity="false">
             <AppenderRef ref="Console"/>
             <AppenderRef ref="MyRollingFile"/>
         </Logger>
-<!--        <Root level="debug">-->
-<!--            <AppenderRef ref="Console"/>-->
+
+
+        <!-- HikariCP Logger -->
+        <Logger name="com.zaxxer.hikari" level="debug" additivity="false">
+            <AppenderRef ref="Console"/>
+        </Logger>
+
+
+        <Root level="info">
+            <AppenderRef ref="Console"/>
 <!--            <AppenderRef ref="MyRollingFile"/>-->
 
-<!--        </Root>-->
+        </Root>
     </Loggers>
 </Configuration>

@@ -1,4 +1,3 @@
-import com.google.api.gax.rpc.ApiException;
 import com.mysite.site1.error.ContentNotReturnedException;
 import com.mysite.site1.models.Comment;
 import com.mysite.site1.models.SingleContent;

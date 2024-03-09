@@ -8,7 +8,8 @@
 
 server:
   port: 9080
-
+  servlet:
+    context-path: "/backend"
 
 
 #GCP MYSQL Configuration
@@ -31,8 +32,21 @@ spring:
       ddl-auto: update
       naming-strategy: org.hibernate.cfg.ImprovedNamingStrategy
       dialect: org.hibernate.dialect.MySQLDialect
+      format_sql: true
+      use_sql_comments: true
 
-    show-sql: false
+    show-sql: true
+
+logging:
+  level:
+    org:
+      hibernate:
+        SQL:
+          DEBUG
+    com:
+      zaxxer:
+        hikari: DEBUG
+
 
 #logging:
 #  level:

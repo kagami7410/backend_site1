@@ -1,136 +1,25 @@
-lolololololol 27-01-2024 13:10:34,906 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 10480 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
-lolololololol 27-01-2024 13:10:34,923 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
-lolololololol 27-01-2024 13:10:34,924 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
-lolololololol 27-01-2024 13:11:05,445 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 12524 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
-lolololololol 27-01-2024 13:11:05,455 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
-lolololololol 27-01-2024 13:11:05,456 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
-lolololololol 27-01-2024 13:12:19,836 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 26892 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
-lolololololol 27-01-2024 13:12:19,842 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
-lolololololol 27-01-2024 13:12:19,843 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
-lolololololol 27-01-2024 13:13:14,891 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 33044 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
-lolololololol 27-01-2024 13:13:14,897 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
-lolololololol 27-01-2024 13:13:14,898 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
-lolololololol 27-01-2024 13:13:28,143 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 29328 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
-lolololololol 27-01-2024 13:13:28,150 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
-lolololololol 27-01-2024 13:13:28,151 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
-lolololololol 27-01-2024 13:17:07,075 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 14416 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
-lolololololol 27-01-2024 13:17:07,082 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
-lolololololol 27-01-2024 13:17:07,082 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "dev"
-lolololololol 27-01-2024 13:18:05,227 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 8956 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
-lolololololol 27-01-2024 13:18:05,234 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
-lolololololol 27-01-2024 13:18:05,235 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
-lolololololol 27-01-2024 13:18:33,391 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 6876 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
-lolololololol 27-01-2024 13:18:33,399 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
-lolololololol 27-01-2024 13:18:33,400 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
-lolololololol 27-01-2024 13:18:51,219 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 14224 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
-lolololololol 27-01-2024 13:18:51,226 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
-lolololololol 27-01-2024 13:18:51,227 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
-lolololololol 27-01-2024 13:22:58,142 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 12624 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
-lolololololol 27-01-2024 13:22:58,149 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
-lolololololol 27-01-2024 13:22:58,150 [main] INFO  com.mysite.site1.Site1Application - No active profile set, falling back to 1 default profile: "default"
-lolololololol 27-01-2024 13:23:01,513 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
-lolololololol 27-01-2024 13:23:01,758 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
-lolololololol 27-01-2024 13:23:02,382 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.565 seconds (process running for 5.263)
-lolololololol 27-01-2024 13:23:21,508 [http-nio-9080-exec-2] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
-lolololololol 27-01-2024 13:23:21,508 [http-nio-9080-exec-1] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
-lolololololol 27-01-2024 13:23:21,554 [http-nio-9080-exec-1] INFO  com.mysite.site1.controllers.ContentController - Fetching contents from database. Contents of size 50
-lolololololol 27-01-2024 13:23:21,746 [http-nio-9080-exec-1] DEBUG com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - debug
-lolololololol 27-01-2024 13:23:51,363 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 31828 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
-lolololololol 27-01-2024 13:23:51,370 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
-lolololololol 27-01-2024 13:23:51,371 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "dev"
-lolololololol 27-01-2024 13:23:54,412 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
-lolololololol 27-01-2024 13:23:54,608 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
-lolololololol 27-01-2024 13:23:55,190 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.161 seconds (process running for 4.901)
-lolololololol 27-01-2024 13:25:30,746 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 1436 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
-lolololololol 27-01-2024 13:25:30,756 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
-lolololololol 27-01-2024 13:25:30,756 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "prod"
-lolololololol 27-01-2024 13:25:44,360 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
-lolololololol 27-01-2024 13:25:44,605 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
-lolololololol 27-01-2024 13:25:45,190 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 14.775 seconds (process running for 15.479)
-lolololololol 27-01-2024 13:25:48,974 [http-nio-9080-exec-2] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
-lolololololol 27-01-2024 13:25:48,974 [http-nio-9080-exec-1] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
-lolololololol 27-01-2024 13:25:49,015 [http-nio-9080-exec-1] INFO  com.mysite.site1.controllers.ContentController - Fetching contents from database. Contents of size 50
-lolololololol 27-01-2024 13:25:55,138 [http-nio-9080-exec-1] DEBUG com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - debug
-lolololololol 27-01-2024 13:26:05,926 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 21804 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
-lolololololol 27-01-2024 13:26:05,933 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
-lolololololol 27-01-2024 13:26:05,934 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "dev"
-lolololololol 27-01-2024 13:26:08,947 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
-lolololololol 27-01-2024 13:26:09,200 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
-lolololololol 27-01-2024 13:26:09,823 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.211 seconds (process running for 4.894)
-lolololololol 27-01-2024 13:29:57,455 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 37616 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
-lolololololol 27-01-2024 13:29:57,461 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
-lolololololol 27-01-2024 13:29:57,462 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "dev"
-lolololololol 27-01-2024 13:30:00,480 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
-lolololololol 27-01-2024 13:30:00,716 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
-lolololololol 27-01-2024 13:30:01,252 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.108 seconds (process running for 4.773)
-lolololololol 27-01-2024 13:42:33,518 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 37436 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
-lolololololol 27-01-2024 13:42:33,526 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
-lolololololol 27-01-2024 13:42:33,527 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "prod"
-lolololololol 27-01-2024 13:42:41,039 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
-lolololololol 27-01-2024 13:42:41,359 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
-lolololololol 27-01-2024 13:42:42,116 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 8.942 seconds (process running for 9.665)
-lolololololol 27-01-2024 13:49:34,590 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 30088 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
-lolololololol 27-01-2024 13:49:34,598 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
-lolololololol 27-01-2024 13:49:34,598 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "prod"
-lolololololol 27-01-2024 13:49:41,399 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
-lolololololol 27-01-2024 13:49:41,592 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
-lolololololol 27-01-2024 13:49:42,154 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 7.878 seconds (process running for 8.561)
-lolololololol 27-01-2024 13:49:51,098 [http-nio-9080-exec-1] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
-lolololololol 27-01-2024 13:49:51,098 [http-nio-9080-exec-2] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
-lolololololol 27-01-2024 13:49:51,131 [http-nio-9080-exec-2] INFO  com.mysite.site1.controllers.ContentController - Fetching contents from database. Contents of size 50
-lolololololol 27-01-2024 13:49:57,291 [http-nio-9080-exec-2] DEBUG com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - debug
-lolololololol 27-01-2024 13:50:12,099 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 1936 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
-lolololololol 27-01-2024 13:50:12,109 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
-lolololololol 27-01-2024 13:50:12,110 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "dev"
-lolololololol 27-01-2024 13:50:15,167 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
-lolololololol 27-01-2024 13:50:15,365 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
-lolololololol 27-01-2024 13:50:15,999 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.222 seconds (process running for 4.922)
-lolololololol 27-01-2024 13:50:21,720 [http-nio-9080-exec-1] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
-lolololololol 27-01-2024 13:50:21,720 [http-nio-9080-exec-2] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
-lolololololol 27-01-2024 13:50:21,760 [http-nio-9080-exec-2] INFO  com.mysite.site1.controllers.ContentController - Fetching contents from database. Contents of size 50
-lolololololol 27-01-2024 13:50:21,910 [http-nio-9080-exec-2] DEBUG com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - debug
-lolololololol 27-01-2024 13:51:21,320 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 28312 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
-lolololololol 27-01-2024 13:51:21,328 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
-lolololololol 27-01-2024 13:51:21,328 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "prod"
-lolololololol 27-01-2024 13:51:27,901 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
-lolololololol 27-01-2024 13:51:28,175 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
-lolololololol 27-01-2024 13:51:28,804 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 7.795 seconds (process running for 8.517)
-lolololololol 27-01-2024 13:51:39,751 [http-nio-9080-exec-2] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
-lolololololol 27-01-2024 13:51:39,751 [http-nio-9080-exec-1] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
-lolololololol 27-01-2024 13:51:39,791 [http-nio-9080-exec-1] INFO  com.mysite.site1.controllers.ContentController - Fetching contents from database. Contents of size 50
-lolololololol 27-01-2024 13:51:45,986 [http-nio-9080-exec-1] DEBUG com.mysite.site1.controllers.ContentController - Data Recieved; Sending HTTP 200 response - debug
-lolololololol 27-01-2024 14:59:35,872 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 33096 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
-lolololololol 27-01-2024 14:59:35,879 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
-lolololololol 27-01-2024 14:59:35,880 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "prod"
-lolololololol 27-01-2024 14:59:43,212 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
-lolololololol 27-01-2024 14:59:43,495 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
-lolololololol 27-01-2024 14:59:44,124 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 8.608 seconds (process running for 9.345)
-lolololololol 27-01-2024 15:02:04,408 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 36572 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
-lolololololol 27-01-2024 15:02:04,419 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
-lolololololol 27-01-2024 15:02:04,420 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "dev"
-lolololololol 27-01-2024 15:02:07,592 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
-lolololololol 27-01-2024 15:02:07,792 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
-lolololololol 27-01-2024 15:02:08,385 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.295 seconds (process running for 4.996)
-lolololololol 27-01-2024 15:03:52,652 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 25012 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
-lolololololol 27-01-2024 15:03:52,663 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
-lolololololol 27-01-2024 15:03:52,663 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "dev"
-lolololololol 27-01-2024 15:03:55,758 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
-lolololololol 27-01-2024 15:03:56,003 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
-lolololololol 27-01-2024 15:03:56,614 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.277 seconds (process running for 4.965)
-lolololololol 27-01-2024 15:03:56,634 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 25012 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
-lolololololol 27-01-2024 15:03:56,635 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
-lolololololol 27-01-2024 15:03:56,635 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "dev"
-lolololololol 27-01-2024 15:03:57,051 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
-lolololololol 27-01-2024 15:03:57,105 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
-lolololololol 27-01-2024 15:04:26,889 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 21552 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
-lolololololol 27-01-2024 15:04:26,900 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
-lolololololol 27-01-2024 15:04:26,901 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "dev"
-lolololololol 27-01-2024 15:04:30,052 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
-lolololololol 27-01-2024 15:04:30,276 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
-lolololololol 27-01-2024 15:04:30,890 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.32 seconds (process running for 5.005)
-lolololololol 27-01-2024 15:05:18,337 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 12104 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
-lolololololol 27-01-2024 15:05:18,344 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
-lolololololol 27-01-2024 15:05:18,346 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "dev"
-lolololololol 27-01-2024 15:05:21,463 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
-lolololololol 27-01-2024 15:05:21,724 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
-lolololololol 27-01-2024 15:05:22,376 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.353 seconds (process running for 5.037)
+lolololololol 09-03-2024 13:17:44,513 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 55640 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 09-03-2024 13:17:44,525 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 09-03-2024 13:17:48,424 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 09-03-2024 13:17:48,889 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.704 seconds (process running for 7.78)
+lolololololol 09-03-2024 13:17:58,854 [http-nio-9080-exec-1] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 09-03-2024 13:17:59,069 [http-nio-9080-exec-2] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 09-03-2024 13:20:16,393 [http-nio-9080-exec-5] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 09-03-2024 14:50:06,733 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 24624 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 09-03-2024 14:50:06,744 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 09-03-2024 14:50:10,201 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 09-03-2024 14:50:10,795 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.388 seconds (process running for 5.036)
+lolololololol 09-03-2024 14:56:44,985 [http-nio-9080-exec-1] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 09-03-2024 14:57:17,999 [http-nio-9080-exec-3] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 09-03-2024 15:21:07,940 [http-nio-9080-exec-5] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 09-03-2024 15:40:02,738 [http-nio-9080-exec-10] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 09-03-2024 15:40:04,060 [http-nio-9080-exec-9] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 09-03-2024 15:40:04,634 [http-nio-9080-exec-2] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 09-03-2024 15:40:08,832 [http-nio-9080-exec-1] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 09-03-2024 15:40:08,855 [http-nio-9080-exec-1] INFO  com.mysite.site1.controllers.ContentController - Fetching contents from database. Contents of size 10
+lolololololol 09-03-2024 15:40:32,088 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 1304 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 09-03-2024 15:40:32,097 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 09-03-2024 15:40:35,931 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 09-03-2024 15:40:36,528 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.793 seconds (process running for 5.543)
+lolololololol 09-03-2024 15:41:35,358 [http-nio-9080-exec-1] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 09-03-2024 15:41:35,389 [http-nio-9080-exec-1] INFO  com.mysite.site1.controllers.ContentController - Fetching contents from database. Contents of size 10

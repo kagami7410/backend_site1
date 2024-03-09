@@ -12,6 +12,8 @@ public class Site1Application {
 	public static void main(String[] args) {
 
 		SpringApplication.run(Site1Application.class, args);
+
+
 	}
 
 }

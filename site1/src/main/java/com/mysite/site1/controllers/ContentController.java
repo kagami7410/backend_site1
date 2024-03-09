@@ -68,6 +68,24 @@ public class ContentController {
         return null;
     }
 
+
+    @GetMapping("/getRecommendedContents/{pageNumber}/{pageSize}")
+    public ResponseEntity<Page<SingleContent>> getRecommededContents(
+            @PathVariable int pageNumber,
+            @PathVariable int pageSize){
+
+        logger.info("Fetching Recomended contents from database. Contents of size {}", pageSize);
+        try{
+            Page<SingleContent> pageContents = contentService.getContentsByPage(pageNumber, pageSize);
+            logger.debug("Data Recieved; Sending HTTP 200 response - debug");
+            return ResponseEntity.ok(pageContents);
+        }
+        catch (Exception exception){
+            logger.error("Data not received: {}", exception.getMessage());
+        }
+        return null;
+    }
+
     @DeleteMapping("/deleteAll")
     public void deleteContents(){
         contentRepository.deleteAll();

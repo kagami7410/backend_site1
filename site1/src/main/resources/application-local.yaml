@@ -13,8 +13,6 @@ server:
 
 
 
-
-
   #spring:
   #  datasource:
   #    url: jdbc:mysql://localhost:3306/site1_backend
@@ -27,7 +25,7 @@ server:
   #Requires default auth configured! -> set service account key as ENV var -> { GOOGLE_APPLICATION_CREDENTIALS = /path/to/key.json}spring:
 spring:
   datasource:
-    url: jdbc:mysql://mysql.mysql-operator.svc.cluster.local:3306/site1_backend
+    url: jdbc:mysql://192.168.0.79:30007/site1_backend
     username: root
     password: Kagami2@
   #    username: root
@@ -41,8 +39,6 @@ spring:
   #        location: "./credentials/ivory-cycle-412111-b5503cd575ba.json"
   #
 
-  #
-  # Logging configs
   jpa:
     hibernate:
       ddl-auto: update
@@ -65,11 +61,13 @@ logging:
 
 
 
+# Logging configs
+#logging.level.com.better.backend_app = TRACE
+#logging.pattern.console=%d [%level] %c{1.} [%t] %m%n
+#logging.file = appLog.log
+#logging.pattern.file=%d [%level] %c{1.} %m%n
+
+
+
 #logging.level.org.springframework.security=DEBUG
-
-
-
-
-
-
 

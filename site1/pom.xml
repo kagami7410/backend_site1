@@ -77,11 +77,11 @@
 			<artifactId>springfox-swagger2</artifactId>
 			<version>3.0.0</version>
 		</dependency>
-		<dependency>
-			<groupId>com.google.cloud.sql</groupId>
-			<artifactId>mysql-socket-factory-connector-j-8</artifactId>
-			<version>1.1.0</version>
-		</dependency>
+<!--		<dependency>-->
+<!--			<groupId>com.google.cloud.sql</groupId>-->
+<!--			<artifactId>mysql-socket-factory-connector-j-8</artifactId>-->
+<!--			<version>1.1.0</version>-->
+<!--		</dependency>-->
 
 
 <!--		 Include Log4j2 dependencies -->
@@ -185,18 +185,18 @@
 
 	</dependencies>
 
-	<dependencyManagement>
-		<dependencies>
-				<dependency>
-					<groupId>com.google.cloud</groupId>
-					<artifactId>spring-cloud-gcp-dependencies</artifactId>
-					<version>4.1.4</version>
-					<type>pom</type>
-					<scope>import</scope>
-				</dependency>
-		</dependencies>
+<!--	<dependencyManagement>-->
+<!--		<dependencies>-->
+<!--				<dependency>-->
+<!--					<groupId>com.google.cloud</groupId>-->
+<!--					<artifactId>spring-cloud-gcp-dependencies</artifactId>-->
+<!--					<version>4.1.4</version>-->
+<!--					<type>pom</type>-->
+<!--					<scope>import</scope>-->
+<!--				</dependency>-->
+<!--		</dependencies>-->
 
-	</dependencyManagement>
+<!--	</dependencyManagement>-->
 
 
 

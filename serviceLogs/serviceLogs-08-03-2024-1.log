@@ -1,0 +1,262 @@
+lolololololol 08-03-2024 09:29:47,701 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 42708 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 09:29:47,712 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 09:29:47,713 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 09:30:08,050 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 51244 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 09:30:08,061 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 09:30:08,062 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 09:30:20,946 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 1176 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 09:30:20,956 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 09:30:20,958 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 09:30:31,590 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 37628 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 09:30:31,596 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 09:30:31,597 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 09:30:42,516 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 18292 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 09:30:42,522 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 09:30:42,523 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 09:32:38,491 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 35672 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 09:32:38,498 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 09:32:38,499 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 09:32:46,997 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 47700 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 09:32:47,006 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 09:32:47,007 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 09:33:14,666 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 34644 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 09:33:14,675 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 09:33:14,676 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 09:33:31,030 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 53532 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 09:33:31,038 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 09:33:31,039 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 09:33:34,291 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
+lolololololol 08-03-2024 09:33:34,538 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 08-03-2024 09:33:35,173 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.484 seconds (process running for 5.192)
+lolololololol 08-03-2024 09:33:53,643 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 30636 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 09:33:53,649 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 09:33:53,650 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 09:33:56,824 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
+lolololololol 08-03-2024 09:33:57,068 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 08-03-2024 09:33:57,684 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.373 seconds (process running for 5.112)
+lolololololol 08-03-2024 09:44:55,084 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 46788 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 09:44:55,092 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 09:44:55,093 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 09:45:05,206 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 20804 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 09:45:05,214 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 09:45:05,214 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 09:48:01,428 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 23920 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 09:48:01,435 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 09:48:01,436 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 09:50:42,193 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 47080 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 09:50:42,203 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 09:50:42,204 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 09:57:28,652 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 23944 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 09:57:28,661 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 09:57:28,662 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 09:58:35,283 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 36084 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 09:58:35,290 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 09:58:35,291 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 10:01:56,152 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 40068 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 10:01:56,163 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 10:01:56,164 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 10:02:07,970 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 30296 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 10:02:07,982 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 10:02:07,983 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 10:21:18,186 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 16884 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 10:21:18,194 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 10:21:18,195 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 10:26:27,694 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 52364 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 10:26:27,701 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 10:26:27,701 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 10:33:04,616 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 48112 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 10:33:04,624 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 10:33:04,625 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 11:01:36,969 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 45932 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 11:01:36,980 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 11:01:36,981 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 11:02:03,107 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 51344 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 11:02:03,114 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 11:02:03,115 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 11:05:25,560 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 47620 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 11:05:25,571 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 11:05:25,572 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 11:05:36,672 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 25204 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 11:05:36,680 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 11:05:36,681 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 13:18:57,349 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 37740 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 13:18:57,357 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 13:18:57,358 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 13:27:39,989 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 38080 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 13:27:39,997 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 13:27:39,998 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 13:27:48,253 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 44568 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 13:27:48,260 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 13:27:48,260 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 13:31:08,515 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 9644 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 13:31:08,521 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 13:31:08,522 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 13:31:36,700 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 6600 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 13:31:36,709 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 13:35:48,214 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 40432 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 13:35:48,222 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 14:10:31,393 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 34996 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 14:10:31,407 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 14:33:32,621 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 10720 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 14:33:32,630 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 14:49:39,606 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 33024 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 14:49:39,618 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 14:50:08,321 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 45452 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 14:50:08,329 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 17:24:07,876 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 49692 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 17:24:07,887 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 17:24:45,914 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 48232 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 17:24:45,923 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 21:50:23,712 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 38744 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 21:50:23,719 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 21:50:23,720 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 21:52:23,316 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 45936 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 21:52:23,325 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 21:55:56,227 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 40756 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 21:55:56,236 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 21:55:56,237 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 21:56:22,095 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 30468 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 21:56:22,101 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 21:56:22,102 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 21:56:25,273 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
+lolololololol 08-03-2024 21:56:25,495 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 08-03-2024 21:56:26,107 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.342 seconds (process running for 5.055)
+lolololololol 08-03-2024 21:58:13,521 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 36604 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 21:58:13,527 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 21:58:13,527 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 21:58:16,804 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
+lolololololol 08-03-2024 21:58:17,037 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 08-03-2024 21:58:17,635 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.459 seconds (process running for 5.171)
+lolololololol 08-03-2024 22:06:24,477 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 13828 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 22:06:24,490 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 22:06:24,491 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 22:06:27,673 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
+lolololololol 08-03-2024 22:06:27,928 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 08-03-2024 22:06:28,535 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.39 seconds (process running for 5.077)
+lolololololol 08-03-2024 22:06:31,756 [http-nio-9080-exec-2] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 08-03-2024 22:06:34,988 [http-nio-9080-exec-3] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 08-03-2024 22:08:32,160 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 30840 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 22:08:32,170 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 22:08:32,171 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 22:08:35,344 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
+lolololololol 08-03-2024 22:08:35,554 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 08-03-2024 22:08:36,081 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.264 seconds (process running for 4.98)
+lolololololol 08-03-2024 22:08:40,646 [http-nio-9080-exec-2] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 08-03-2024 22:09:22,866 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 42540 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 22:09:22,873 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 22:09:22,873 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 22:09:26,094 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
+lolololololol 08-03-2024 22:09:26,331 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 08-03-2024 22:09:26,931 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.391 seconds (process running for 5.11)
+lolololololol 08-03-2024 22:09:42,618 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 41672 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 22:09:42,625 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 22:09:42,626 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 22:09:45,794 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
+lolololololol 08-03-2024 22:09:46,026 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 08-03-2024 22:09:46,675 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.384 seconds (process running for 5.131)
+lolololololol 08-03-2024 22:09:50,082 [http-nio-9080-exec-2] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 08-03-2024 22:09:56,728 [http-nio-9080-exec-3] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 08-03-2024 22:21:47,978 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 41268 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 22:21:47,985 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 22:21:47,985 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 22:21:51,480 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
+lolololololol 08-03-2024 22:21:51,756 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 08-03-2024 22:21:52,400 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.804 seconds (process running for 5.521)
+lolololololol 08-03-2024 22:22:03,201 [http-nio-9080-exec-1] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 08-03-2024 22:41:10,613 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 37464 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 22:41:10,621 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 22:41:10,622 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 22:41:14,077 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
+lolololololol 08-03-2024 22:41:14,323 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 08-03-2024 22:41:14,812 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.543 seconds (process running for 5.329)
+lolololololol 08-03-2024 22:46:58,006 [http-nio-9080-exec-2] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 08-03-2024 22:47:10,356 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 40560 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 22:47:10,365 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 22:47:10,366 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 22:47:13,853 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
+lolololololol 08-03-2024 22:47:14,109 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 08-03-2024 22:47:14,698 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.678 seconds (process running for 5.39)
+lolololololol 08-03-2024 22:47:18,036 [http-nio-9080-exec-2] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 08-03-2024 22:47:20,269 [http-nio-9080-exec-3] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 08-03-2024 22:47:41,167 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 48692 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 22:47:41,175 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 22:47:41,176 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 22:47:44,707 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
+lolololololol 08-03-2024 22:47:44,995 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 08-03-2024 22:47:45,510 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.716 seconds (process running for 5.421)
+lolololololol 08-03-2024 22:50:24,875 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 42236 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 22:50:24,884 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 22:50:24,885 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 22:50:28,271 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
+lolololololol 08-03-2024 22:50:28,559 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 08-03-2024 22:50:29,111 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.583 seconds (process running for 5.335)
+lolololololol 08-03-2024 22:51:08,543 [http-nio-9080-exec-2] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 08-03-2024 22:52:38,520 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 13168 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 22:52:38,528 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 22:52:38,529 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 22:52:41,922 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
+lolololololol 08-03-2024 22:52:42,184 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 08-03-2024 22:52:42,819 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.635 seconds (process running for 5.374)
+lolololololol 08-03-2024 22:53:28,730 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 22332 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 22:53:28,736 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 22:53:28,737 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 22:53:32,102 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
+lolololololol 08-03-2024 22:53:32,400 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 08-03-2024 22:53:33,085 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.706 seconds (process running for 5.431)
+lolololololol 08-03-2024 22:54:31,244 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 27308 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 22:54:31,251 [main] DEBUG com.mysite.site1.Site1Application - Running with Spring Boot v3.1.4, Spring v6.0.12
+lolololololol 08-03-2024 22:54:31,251 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 22:54:34,733 [main] DEBUG com.mysite.site1.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
+lolololololol 08-03-2024 22:54:34,937 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 08-03-2024 22:54:35,529 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.654 seconds (process running for 5.41)
+lolololololol 08-03-2024 22:54:50,995 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 30832 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 22:54:51,003 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 22:54:54,841 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 08-03-2024 22:54:55,534 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.901 seconds (process running for 5.627)
+lolololololol 08-03-2024 22:55:06,917 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 53544 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 22:55:06,927 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 22:55:10,556 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 08-03-2024 22:55:11,159 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.629 seconds (process running for 5.428)
+lolololololol 08-03-2024 22:55:34,649 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 8396 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 22:55:34,658 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 22:55:38,392 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 08-03-2024 22:55:38,954 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.663 seconds (process running for 5.408)
+lolololololol 08-03-2024 22:56:02,962 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 20892 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 22:56:02,971 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 22:56:06,729 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 08-03-2024 22:56:07,311 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.717 seconds (process running for 5.465)
+lolololololol 08-03-2024 22:56:16,318 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 46028 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 22:56:16,327 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 22:56:20,023 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 08-03-2024 22:56:20,670 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.724 seconds (process running for 5.482)
+lolololololol 08-03-2024 22:56:24,035 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 41164 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 22:56:24,043 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 22:56:27,730 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 08-03-2024 22:56:28,327 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.65 seconds (process running for 5.426)
+lolololololol 08-03-2024 22:59:32,175 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 30076 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 22:59:32,182 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 22:59:35,642 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 08-03-2024 22:59:36,139 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.32 seconds (process running for 5.095)
+lolololololol 08-03-2024 22:59:39,416 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 23912 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 22:59:39,430 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 22:59:42,756 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 08-03-2024 22:59:43,244 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.153 seconds (process running for 4.854)
+lolololololol 08-03-2024 23:03:15,473 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 39028 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 23:03:15,482 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 23:03:18,728 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 08-03-2024 23:03:19,204 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.09 seconds (process running for 4.783)
+lolololololol 08-03-2024 23:04:06,543 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 18848 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 23:04:06,554 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 23:04:09,972 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 08-03-2024 23:04:10,522 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.309 seconds (process running for 4.96)
+lolololololol 08-03-2024 23:05:43,310 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 8516 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 23:05:43,320 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 23:05:47,080 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 08-03-2024 23:05:47,547 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.566 seconds (process running for 5.243)
+lolololololol 08-03-2024 23:05:56,692 [http-nio-9080-exec-1] INFO  com.mysite.site1.config.JwtAuthenticationFilter - Initializing doFilterInternal
+lolololololol 08-03-2024 23:11:51,399 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 33024 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 23:11:51,408 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
+lolololololol 08-03-2024 23:11:54,930 [main] INFO  com.mysite.site1.config.SecurityConfig - Initializing Filter chain........
+lolololololol 08-03-2024 23:11:55,576 [main] INFO  com.mysite.site1.Site1Application - Started Site1Application in 4.498 seconds (process running for 5.16)
+lolololololol 08-03-2024 23:12:45,060 [main] INFO  com.mysite.site1.Site1Application - Starting Site1Application using Java 18 with PID 31940 (C:\Users\sujan\myProjects\mySites\backend\site1\target\classes started by sujan in C:\Users\sujan\myProjects\mySites\backend)
+lolololololol 08-03-2024 23:12:45,071 [main] INFO  com.mysite.site1.Site1Application - The following 1 profile is active: "local"
